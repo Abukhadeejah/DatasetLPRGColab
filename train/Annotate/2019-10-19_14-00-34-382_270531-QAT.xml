@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>2019-10-19_14-00-34-382_270531-QAT.jpg</filename>
+	<path>C:\Users\Anaconda\object_detection_demo\data\Images\2019-10-19_14-00-34-382_270531-QAT.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>License Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1151</xmin>
+			<ymin>370</ymin>
+			<xmax>1271</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
